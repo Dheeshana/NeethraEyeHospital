@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">Neethra Eye Hospital</string>
+    <string name="docName">Doctor Name</string>
+    <string name="docDate">Date</string>
+    <string name="docChannel">Doctor Channeling</string>
+    <string name="docClear">Clear</string>
+    <string name="docSearch">Search</string>
+    <string name="patName">Patient Name</string>
+    <string name="patDOB">Date of Birth</string>
+    <string name="patPhone">Phone</string>
+    <string name="patEmail">Email</string>
+    <string name="patAddress">Address</string>
+    <string name="patGender">Gender</string>
+    <string name="patClear">Clear</string>
+    <string name="patSubmit">Submit</string>
+    <string name="patMale">Male</string>
+    <string name="patFemale">Female</string>
+    <string name="patTitle">Patient Details</string>
+    <string name="docTime">Time</string>
+    <string name="docStatus">Status</string>
+    <string name="docAvPatientNo">Avalable Patient No</string>
+    <string name="docBook">Book</string>
 </resources>
