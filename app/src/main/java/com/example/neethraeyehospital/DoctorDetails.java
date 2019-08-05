@@ -15,7 +15,7 @@ public class DoctorDetails extends AppCompatActivity {
     }
 
     public void Book(View view){
-        Intent intent = new Intent(this,PatientDetails.class);
+        Intent intent = new Intent(this,PatientDetails2.class);
         startActivity(intent);
     }
 }
